@@ -1,5 +1,3 @@
-# Disha Pramanick
+# demo-resume-1
 
-Personal portfolio site built with GitHub Pages.
 
-demo-resume-1
