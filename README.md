@@ -15,7 +15,8 @@ CGPA: 7.5 | Aug '24 – Present
 ---
 
 ## 🛠️ Skills
-- **Technical:** Python, SQL, Machine Learning, Power BI [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![MySQL][![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+- **Technical:** Python, SQL, Machine Learning, Power BI
+- (https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) (https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 - **Soft Skills:** Team Lead, Communication, Critical Thinking, Problem Solving
 - **Languages:** English (Fluent), Hindi (Fluent), Bengali (Native)
 
