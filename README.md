@@ -17,8 +17,6 @@ CGPA: 7.5 | Aug '24 – Present
 ## 🛠️ Skills
 - **Technical:** Machine Learning, Power BI
 - [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) 
-- 
--
 
 ---
 
